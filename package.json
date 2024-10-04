@@ -11,6 +11,15 @@
     "node": ">= 21.0.0",
     "npm": ">= 10.2.0"
   },
-  "keywords": ["nosql", "dashboard", "mongodb", "mongo", "client"],
-  "type": "module"
+  "keywords": [
+    "nosql",
+    "dashboard",
+    "mongodb",
+    "mongo",
+    "client"
+  ],
+  "type": "module",
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  }
 }
