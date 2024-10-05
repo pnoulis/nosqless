@@ -21,5 +21,8 @@
   "type": "module",
   "devDependencies": {
     "esbuild": "^0.24.0"
+  },
+  "dependencies": {
+    "mongodb": "^6.9.0"
   }
 }
