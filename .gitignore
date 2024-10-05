@@ -1,6 +1,7 @@
 tmp/
 dist/
 build/
+var/
 node_modules
 package-lock.json
 .env
